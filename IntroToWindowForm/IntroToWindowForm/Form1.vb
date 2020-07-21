@@ -158,6 +158,6 @@
     End Sub
 
     Private Sub txtExam_TextChanged(sender As Object, e As EventArgs) Handles txtExam.TextChanged
-
+        ' Dim std As Person = new Student()
     End Sub
 End Class
